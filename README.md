@@ -82,4 +82,4 @@ Some parts of `openunreid` are learned from [torchreid](https://github.com/Kaiya
 
 ## Contact
 
-This project is currently maintained by Yixiao Ge ([@yxgeee](https://github.com/yxgeee)).
+This project is developed by Yixiao Ge ([@yxgeee](https://github.com/yxgeee)), Tong Xiao ([@Cysu](https://github.com/Cysu)), Zhiwei Zhang ([@Dreamerzzw](https://github.com/Dreamerzzw)).
